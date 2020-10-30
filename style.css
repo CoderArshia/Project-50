@@ -1,0 +1,31 @@
+.item{
+    border-radius: 20px ;
+    background-color: white;
+    width: 300px;
+}
+.grid{
+    display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-end;
+}
+
+h1{
+    color: lightcoral;
+    border: 10px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background-color: rgb(198, 188, 255);
+}
+.grid img{
+    border: 5px solid black;
+    background-color: rgb(255, 255, 255);
+    border-radius: 40px;
+}
+p{
+    font-family: comic sans ms;
+    font-weight: italic;
+   }
+ol,ul{
+    font-family: comic sans ms;
+}
